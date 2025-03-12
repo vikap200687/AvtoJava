@@ -3,11 +3,11 @@ public class Task {
 
     //сравнить два числа и вывести большее
     public static void findMaxElement() {
-        int elem1 = 10;
+        int elem1 = 60;
         int elem2 = 50;
         int max = elem2;
         //если elem1 меньше elem2
-        if (elem1 > elem2) {
+        if (elem1 < elem2) {
             //то elem2 - max
             max = elem2;
         }
