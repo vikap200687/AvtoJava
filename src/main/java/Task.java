@@ -5,9 +5,9 @@ public class Task {
     public static void findMaxElement() {
         int elem1 = 40;
         int elem2 = 50;
-        int max = elem1;
+        int max = elem2;
         //если elem1 меньше elem2
-        if (elem1 < elem2) {
+        if (elem1 > elem2) {
             //то elem2 - max
             max = elem2;
         }
