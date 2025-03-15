@@ -1,19 +1,20 @@
 public class Task {
-    private static Object Math;
 
     //сравнить два числа и вывести большее
-    public static void findMaxElement() {
-        int elem1 = 70;
-        int elem2 = 50;
-        int max = elem2;
+    public static void findMaxNumber() {
+        int number1 = 70;
+        int number2 = 1000;
+        int number3 = 100;
+        int maxnumber = 0;
         //если elem1 меньше elem2
-        if (elem1 < elem2) {
+        if (number1 < number2) {
             //то elem2 - max
-            max = elem2;
+            maxnumber = number2;
         }
-        //иначе elem1 - max
-
-        System.out.println( "Max = " + max );
+        if (number2 < number3) {
+            maxnumber = number3;
+        }
+        System.out.println( "Max number = " + maxnumber );
     }
 
     public static void maxNumber(){
