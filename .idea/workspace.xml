@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="980ca45e-4711-4c40-a1ae-195453982b83" name="Changes" comment="обновили gitignore" />
+    <list default="true" id="980ca45e-4711-4c40-a1ae-195453982b83" name="Changes" comment="обновили значения">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Task.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -144,7 +149,47 @@
       <option name="project" value="LOCAL" />
       <updated>1741777153460</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="обновили gitignore">
+      <option name="closed" value="true" />
+      <created>1741777408482</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741777408482</updated>
+    </task>
+    <task id="LOCAL-00008" summary="обновили gitignore">
+      <option name="closed" value="true" />
+      <created>1741777615999</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741777615999</updated>
+    </task>
+    <task id="LOCAL-00009" summary="обновили gitignore">
+      <option name="closed" value="true" />
+      <created>1741777914858</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741777914858</updated>
+    </task>
+    <task id="LOCAL-00010" summary="обновили значения">
+      <option name="closed" value="true" />
+      <created>1741779980618</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741779980618</updated>
+    </task>
+    <task id="LOCAL-00011" summary="обновили значения">
+      <option name="closed" value="true" />
+      <created>1741780359146</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741780359146</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -166,6 +211,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="обновили gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="обновили gitignore" />
+    <MESSAGE value="обновили значения" />
+    <option name="LAST_COMMIT_MESSAGE" value="обновили значения" />
   </component>
 </project>
